@@ -1,0 +1,33 @@
+{
+  "name": "@iroomit/page-interaction-listener",
+  "version": "1.0.0",
+  "description": "Takes a function (or several functions) as an argument and only executes them once the user has interacted with the page via mouse, keyboard or touch.",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "npx tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iroomitapp/page-interaction-listener.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "TypeScript",
+    "SEO",
+    "PageSpeed",
+    "Speed",
+    "Load",
+    "Lazy",
+    "Loading"
+  ],
+  "author": "iROOMit Inc.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iroomitapp/page-interaction-listener/issues"
+  },
+  "homepage": "https://github.com/iroomitapp/page-interaction-listener#readme",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
