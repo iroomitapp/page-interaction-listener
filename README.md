@@ -81,4 +81,4 @@ This will only remove the function if it exists in the queue and if the page int
 
 Note that all functions are automatically flushed from the queue upon execution when the first interaction occurs.
 
-*Are you looking for a roommate or a room? [Check out iROOMit Roommate Finder App & Website](https://www.iroomit.com/) for thousands of roommates searching, rooms and places available today!*
+*Are you looking for a roommate or a room to rent? [Check out iROOMit Roommate Finder App & Website](https://www.iroomit.com/) for thousands of roommates searching, rooms and places available today!*
