@@ -8,7 +8,7 @@ Compatible with any modern browser as it uses the native browser document events
 
 A live example can be seen on [iROOMit Roommates & Rooms Finder website](https://www.iroomit.com/) in your browser's Network Requests if you wait a bit before bringing your cursor into the page upon initial load of the website.
 
-This code is licensed under the [MIT license](https://github.com/iroomitapp/page-interaction-listener/LICENSE) as found in the license file.
+This code is licensed under the [MIT license](https://github.com/iroomitapp/page-interaction-listener/blob/main/LICENSE) as found in the license file.
 
 ⚠️ Warning: it is up to you to determine what is safe to lazy-load/delay and what is not. If not used carefully, this could break the page or have other unintended consequences.
 
