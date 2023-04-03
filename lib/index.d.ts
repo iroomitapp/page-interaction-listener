@@ -4,7 +4,7 @@
 * Original File: src/index.ts
 
 * First Created: September 29, 2022
-* Last Edited: November 14, 2022
+* Last Edited: April 3, 2023
 
 * This source code is licensed under the MIT license found in the
 * LICENSE file in the root directory of this source tree.
@@ -25,8 +25,8 @@ declare function addListener(func: Function | Array<Function>): void;
    *
    */
 declare function removeListener(func: Function | Array<Function>): void;
-declare const _default: {
+declare const PageInteractionListener: {
     addListener: typeof addListener;
     removeListener: typeof removeListener;
 };
-export default _default;
+export default PageInteractionListener;
