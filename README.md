@@ -5,7 +5,9 @@ The purpose of this package is to easily delay code from running in the browser 
 This can be used to lazy-load libraries and delay code that is not needed until the user has interacted with the page (UI code below the fold, UX libraries, analytics libraries, etc). This can reduce bundle size, improve initial page load time as well as the end-user experience as a result. Ultimately this will help with SEO (Search Engine Optimization).
 
 ✅ No additional libraries/imports (Pure JS)
+
 ✅ Small minified bundle size (< 2KB)
+
 ✅ Implemented in TypeScript/Full TypeScript Support
 
 Compatible with any modern browser as it uses the native browser document events under the hood. Can be used with any major JavaScript/TypeScript library ([React](https://reactjs.org/), [Angular](https://angular.io/), [Vue](https://vuejs.org/)). SSR friendly for [Next.js](https://nextjs.org/), [Gatsby](https://www.gatsbyjs.com/), etc.
