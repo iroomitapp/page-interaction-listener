@@ -6,7 +6,7 @@
   "types": "lib/index.d.ts",
   "scripts": {
     "build": "npx tsc && npx minify ./lib/index.js > ./lib/index.min.js",
-    "test": "jest"
+    "test": "yarn build && jest"
   },
   "repository": {
     "type": "git",

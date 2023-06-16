@@ -1,5 +1,8 @@
 # Page Interaction Listener (@iroomit/page-interaction-listener)
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+![Version](https://img.shields.io/badge/Version-1.1.1-blue)
+
 The purpose of this package is to easily delay code from running in the browser until the user has interacted with the page in some way (mouse-over, click, touch, scroll or keypress).
 
 This can be used to lazy-load libraries and delay code that is not needed until the user has interacted with the page (UI code below the fold, UX libraries, analytics libraries, etc). This can reduce bundle size, improve initial page load time as well as the end-user experience as a result. Ultimately this will help with SEO (Search Engine Optimization).
