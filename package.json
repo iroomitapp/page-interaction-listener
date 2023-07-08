@@ -1,6 +1,6 @@
 {
   "name": "@iroomit/page-interaction-listener",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Takes a function (or several functions) as an argument and only executes them once the user has interacted with the page via mouse, keyboard or touch.",
   "main": "lib/index.min.js",
   "types": "lib/index.d.ts",
